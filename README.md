@@ -1,0 +1,1 @@
+Those 2 Java projects have been developed as a preparation for the lab examinations that took place through the semester. They are pretty basic console-based apps, simulating use-cases of a Car Rental Company. The 2nd project is an updated version of the 1st one with some added functionality for the final user and many changes in the backend
